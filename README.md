@@ -15,5 +15,6 @@ Use this repository to discover practical guides on WordPress AI automation, cus
 
 <!-- article-index:start -->
 - [Build Instant Trust: Why Real People Help When Decisions Matter](live-chat-build-trust-human-support.md) — [Read original](https://helpmate.chat/live-chat-build-trust-human-support/)
+- [How to Set Up Live Chat on WordPress Without Breaking Your Site](live-chat-wordpress-setup-guide.md) — [Read original](https://helpmate.chat/live-chat-wordpress-setup-guide/)
 - [Helpmate 2.0.0: The Complete AI CRM and Automation System for WordPress Business](helpmate-2-0-0-ai-crm-automation-wordpress.md) — [Read original](https://helpmate.chat/helpmate-2-0-0-ai-crm-automation-wordpress/)
 <!-- article-index:end -->
