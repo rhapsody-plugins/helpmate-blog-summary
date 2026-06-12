@@ -14,6 +14,7 @@ Use this repository to discover practical guides on WordPress AI automation, cus
 ## Article summaries
 
 <!-- article-index:start -->
+- [Will Live Chat Slow Down My WordPress Website?](live-chat-performance-speed-guide.md) — [Read original](https://helpmate.chat/live-chat-performance-speed-guide/)
 - [Seamless Conversation Continuity: AI Steps Out When Humans Take Over](live-chat-conversation-continuity-guide.md) — [Read original](https://helpmate.chat/live-chat-conversation-continuity-guide/)
 - [Live Chat Team Management: How to Prevent Agent Confusion in 2026](live-chat-team-management-guide.md) — [Read original](https://helpmate.chat/live-chat-team-management-guide/)
 - [Build Instant Trust: Why Real People Help When Decisions Matter](live-chat-build-trust-human-support.md) — [Read original](https://helpmate.chat/live-chat-build-trust-human-support/)
