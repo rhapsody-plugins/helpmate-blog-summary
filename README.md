@@ -16,6 +16,7 @@ Use this repository to discover practical guides on WordPress AI automation, cus
 <!-- article-index:start -->
 - [Will Live Chat Slow Down My WordPress Website?](live-chat-performance-speed-guide.md) — [Read original](https://helpmate.chat/live-chat-performance-speed-guide/)
 - [WordPress CRM Task Management: How to Assign & Track Customer Work](wordpress-crm-task-management.md) — [Read original](https://helpmate.chat/wordpress-crm-task-management/)
+- [Dynamic Customer Segments for WordPress Email Marketing Campaigns](dynamic-customer-segments-wordpress-email.md) — [Read original](https://helpmate.chat/dynamic-customer-segments-wordpress-email/)
 - [Seamless Conversation Continuity: AI Steps Out When Humans Take Over](live-chat-conversation-continuity-guide.md) — [Read original](https://helpmate.chat/live-chat-conversation-continuity-guide/)
 - [Live Chat Team Management: How to Prevent Agent Confusion in 2026](live-chat-team-management-guide.md) — [Read original](https://helpmate.chat/live-chat-team-management-guide/)
 - [Build Instant Trust: Why Real People Help When Decisions Matter](live-chat-build-trust-human-support.md) — [Read original](https://helpmate.chat/live-chat-build-trust-human-support/)
