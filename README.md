@@ -14,6 +14,7 @@ Use this repository to discover practical guides on WordPress AI automation, cus
 ## Article summaries
 
 <!-- article-index:start -->
+- [Is There Any Free AI Chatbot? 12 Best Options for 2026](is-there-any-free-ai-chatbot.md) — [Read original](https://helpmate.chat/is-there-any-free-ai-chatbot/)
 - [Will Live Chat Slow Down My WordPress Website?](live-chat-performance-speed-guide.md) — [Read original](https://helpmate.chat/live-chat-performance-speed-guide/)
 - [WordPress CRM Task Management: How to Assign & Track Customer Work](wordpress-crm-task-management.md) — [Read original](https://helpmate.chat/wordpress-crm-task-management/)
 - [Dynamic Customer Segments for WordPress Email Marketing Campaigns](dynamic-customer-segments-wordpress-email.md) — [Read original](https://helpmate.chat/dynamic-customer-segments-wordpress-email/)
