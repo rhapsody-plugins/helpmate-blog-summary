@@ -18,6 +18,7 @@ Use this repository to discover practical guides on WordPress AI automation, cus
 - [Using AI Chatbots for Lead Generation: A Complete Playbook](ai-chatbot-lead-generation-playbook.md) — [Read original](https://helpmate.chat/ai-chatbot-lead-generation-playbook/)
 - [Abandoned Cart Recovery: Email Strategies That Actually Work in 2026](abandoned-cart-recovery-email-strategies.md) — [Read original](https://helpmate.chat/abandoned-cart-recovery-email-strategies/)
 - [Facebook Comment Auto-Reply: Best Practices for 2026](facebook-comment-auto-reply-best-practices.md) — [Read original](https://helpmate.chat/facebook-comment-auto-reply-best-practices/)
+- [How to Automate Instagram DM Responses Without Sounding Robotic](how-to-automate-instagram-dm-responses.md) — [Read original](https://helpmate.chat/how-to-automate-instagram-dm-responses/)
 - [Will Live Chat Slow Down My WordPress Website?](live-chat-performance-speed-guide.md) — [Read original](https://helpmate.chat/live-chat-performance-speed-guide/)
 - [WordPress CRM Task Management: How to Assign & Track Customer Work](wordpress-crm-task-management.md) — [Read original](https://helpmate.chat/wordpress-crm-task-management/)
 - [Dynamic Customer Segments for WordPress Email Marketing Campaigns](dynamic-customer-segments-wordpress-email.md) — [Read original](https://helpmate.chat/dynamic-customer-segments-wordpress-email/)
