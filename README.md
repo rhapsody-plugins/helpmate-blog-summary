@@ -23,6 +23,7 @@ Use this repository to discover practical guides on WordPress AI automation, cus
 - [What Is Omnichannel Marketing Automation? A Complete Guide for 2025](what-is-omnichannel-marketing-automation.md) — [Read original](https://helpmate.chat/what-is-omnichannel-marketing-automation/)
 - [Scale Without Losing Grip: WordPress CRM for Growing Teams](blog-scale-without-losing-grip-crm.md) — [Read original](https://helpmate.chat/blog-scale-without-losing-grip-crm/)
 - [One Customer Timeline: Why Every Interaction Matters](unified-customer-view-wordpress.md) — [Read original](https://helpmate.chat/unified-customer-view-wordpress/)
+- [WordPress CRM Appointments: Schedule & Track Customer Bookings](wordpress-crm-appointments.md) — [Read original](https://helpmate.chat/wordpress-crm-appointments/)
 - [Will Live Chat Slow Down My WordPress Website?](live-chat-performance-speed-guide.md) — [Read original](https://helpmate.chat/live-chat-performance-speed-guide/)
 - [WordPress CRM Task Management: How to Assign & Track Customer Work](wordpress-crm-task-management.md) — [Read original](https://helpmate.chat/wordpress-crm-task-management/)
 - [Dynamic Customer Segments for WordPress Email Marketing Campaigns](dynamic-customer-segments-wordpress-email.md) — [Read original](https://helpmate.chat/dynamic-customer-segments-wordpress-email/)
