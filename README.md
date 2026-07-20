@@ -14,6 +14,7 @@ Use this repository to discover practical guides on WordPress AI automation, cus
 ## Article summaries
 
 <!-- article-index:start -->
+- [Proactive Sales: How to Engage Visitors Before They Bounce](proactive-sales-chat-strategies.md) — [Read original](https://helpmate.chat/proactive-sales-chat-strategies/)
 - [Is There Any Free AI Chatbot? 12 Best Options for 2026](is-there-any-free-ai-chatbot.md) — [Read original](https://helpmate.chat/is-there-any-free-ai-chatbot/)
 - [Using AI Chatbots for Lead Generation: A Complete Playbook](ai-chatbot-lead-generation-playbook.md) — [Read original](https://helpmate.chat/ai-chatbot-lead-generation-playbook/)
 - [Abandoned Cart Recovery: Email Strategies That Actually Work in 2026](abandoned-cart-recovery-email-strategies.md) — [Read original](https://helpmate.chat/abandoned-cart-recovery-email-strategies/)
