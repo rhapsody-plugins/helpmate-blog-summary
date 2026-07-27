@@ -21,6 +21,7 @@ Use this repository to discover practical guides on WordPress AI automation, cus
 - [Top 5 AI Chatbots in 2026: Features, Pricing Compared](top-5-ai-chatbots-2026.md) — [Read original](https://helpmate.chat/top-5-ai-chatbots-2026/)
 - [10 Marketing Automation Workflow Templates for WooCommerce](marketing-automation-workflow-templates.md) — [Read original](https://helpmate.chat/marketing-automation-workflow-templates/)
 - [The Real Cost of Slow Response Times in E-commerce (Data Study)](response-time-impact-on-ecommerce-sales.md) — [Read original](https://helpmate.chat/response-time-impact-on-ecommerce-sales/)
+- [WhatsApp Business API Automation: Setup & Best Practices](whatsapp-business-api-automation-guide.md) — [Read original](https://helpmate.chat/whatsapp-business-api-automation-guide/)
 - [Is There Any Free AI Chatbot? 12 Best Options for 2026](is-there-any-free-ai-chatbot.md) — [Read original](https://helpmate.chat/is-there-any-free-ai-chatbot/)
 - [Using AI Chatbots for Lead Generation: A Complete Playbook](ai-chatbot-lead-generation-playbook.md) — [Read original](https://helpmate.chat/ai-chatbot-lead-generation-playbook/)
 - [Abandoned Cart Recovery: Email Strategies That Actually Work in 2026](abandoned-cart-recovery-email-strategies.md) — [Read original](https://helpmate.chat/abandoned-cart-recovery-email-strategies/)
