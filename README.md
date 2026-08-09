@@ -14,6 +14,7 @@ Use this repository to discover practical guides on WordPress AI automation, cus
 ## Article summaries
 
 <!-- article-index:start -->
+- [Why Response Time Pressure Is Killing Customer Trust](blog-async-support-without-response-time-pressure.md) — [Read original](https://helpmate.chat/blog-async-support-without-response-time-pressure/)
 - [Proactive Sales: How to Engage Visitors Before They Bounce](proactive-sales-chat-strategies.md) — [Read original](https://helpmate.chat/proactive-sales-chat-strategies/)
 - [Post-Purchase Email Sequences That Drive Repeat Sales](post-purchase-email-sequences.md) — [Read original](https://helpmate.chat/post-purchase-email-sequences/)
 - [Social Media Automation for Small Business: What Works](small-business-social-media-automation.md) — [Read original](https://helpmate.chat/small-business-social-media-automation/)
