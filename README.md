@@ -22,6 +22,7 @@ Use this repository to discover practical guides on WordPress AI automation, cus
 - [How to Provide 24/7 Customer Support Without Hiring More Staff](provide-24-7-customer-support-without-hiring.md) — [Read original](https://helpmate.chat/provide-24-7-customer-support-without-hiring/)
 - [How to Train AI Chatbot on WooCommerce Product Data in Minutes](train-ai-chatbot-on-woocommerce-product-data.md) — [Read original](https://helpmate.chat/train-ai-chatbot-on-woocommerce-product-data/)
 - [How to Convert Social DMs into Sales on WooCommerce](convert-social-dms-to-sales-woocommerce.md) — [Read original](https://helpmate.chat/convert-social-dms-to-sales-woocommerce/)
+- [WooCommerce CRM Features for Small Business: What You Actually Need](woocommerce-crm-features-for-small-business.md) — [Read original](https://helpmate.chat/woocommerce-crm-features-for-small-business/)
 - [Why Response Time Pressure Is Killing Customer Trust](blog-async-support-without-response-time-pressure.md) — [Read original](https://helpmate.chat/blog-async-support-without-response-time-pressure/)
 - [AI Chatbot vs Manual Support: Real Cost Comparison for WooCommerce Stores](blog-chatbot-vs-manual-support-cost.md) — [Read original](https://helpmate.chat/blog-chatbot-vs-manual-support-cost/)
 - [Best WordPress Live Chat Plugins with CRM (2025 Comparison)](best-wordpress-live-chat-plugins-crm.md) — [Read original](https://helpmate.chat/best-wordpress-live-chat-plugins-crm/)
